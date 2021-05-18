@@ -16,3 +16,9 @@ buildpacks python をインストール
 ```
 heroku buildpacks:add heroku/python
 ```
+
+buildpacks nginx をインストール
+
+```
+heroku buildpacks:add heroku-community/nginx
+```
